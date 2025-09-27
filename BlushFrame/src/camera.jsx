@@ -1,5 +1,5 @@
 import { useRef, useEffect, useState } from "react";
-import intro from "./assets/intro.jpg";
+import demo from "./assets/demo.jpg";
 import { useNavigate } from "react-router-dom";
 
 
@@ -11,7 +11,7 @@ function Camera() {
   const [photos, setPhotos] = useState([]);
 
   // Demo image placeholder
-  const demoImage = intro;
+  const demoImage = demo;
 
   useEffect(() => {
     if (phase === "camera") {
