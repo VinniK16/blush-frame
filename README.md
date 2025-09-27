@@ -21,4 +21,6 @@
 - 📤 Integrate **social sharing** options  
 - ✨ Introduce **animated sticker packs** and seasonal themes  
  
-**BlushFrame** – *Capture memories, create magic ✨*
+##Here’s a glimpse of BlushFrame:
+
+
