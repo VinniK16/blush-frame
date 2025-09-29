@@ -15,7 +15,7 @@ function BlushFrameWelcome() {
   };
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-pink-100 via-purple-50 to-indigo-100 relative overflow-hidden">
+    <div className="fixed inset-0 overflow-hidden min-h-screen bg-gradient-to-br from-pink-100 via-purple-50 to-indigo-100 relative overflow-hidden">
       {/* Animated Background Elements */}
       <div className="absolute inset-0">
         <div className="absolute top-20 left-20 w-32 h-32 bg-pink-200 rounded-full opacity-60 animate-pulse"></div>
