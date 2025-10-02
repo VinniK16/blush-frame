@@ -23,7 +23,7 @@
  
 ## Here’s a glimpse of BlushFrame:
 
-![Glimpse of BlushFrame] (C:/Users/Vinni Kapoor/Desktop/Photo Booth/blush-frame/BlushFrame/src/assets/01.png)
-![Glimpse of BlushFrame] (C:/Users/Vinni Kapoor/Desktop/Photo Booth/blush-frame/BlushFrame/src/assets/02.png)
+![Glimpse of BlushFrame](images/01.png)
+![Glimpse of BlushFrame](images/02.png)
 
 
