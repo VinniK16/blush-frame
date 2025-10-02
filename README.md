@@ -23,7 +23,7 @@
  
 ## Here’s a glimpse of BlushFrame:
 
-![Glimpse of BlushFrame](images/01.png)
-![Glimpse of BlushFrame](images/02.png)
+<img src="images/01.png" alt="Glimpse of BlushFrame" width="300"/>
+<img src="images/02.png" alt="Glimpse of BlushFrame" width="300"/>
 
 
