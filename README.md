@@ -3,13 +3,13 @@
 
 ## Features
 
-- ✨ **Stickers & Effects** – Decorate your photos with fun stickers and effects.  
-- 💖 **Multiple Layouts** – Customize how your photos are displayed.  
-- 📸 **Instant Keepsakes** – Save screenshots and share your favorite moments.  
+- ✨ **Stickers & Effects** - Decorate your photos with fun stickers and effects.  
+- 💖 **Multiple Layouts** - Customize how your photos are displayed.  
+- 📸 **Instant Keepsakes** - Save screenshots and share your favorite moments.  
 
 ## Tech Used
 
-- **React** – Frontend  
+- **React** - Frontend  
 - **Tailwind CSS** - Styling  
 - **React Router** - Page navigation  
 - **Lucide Icons** - Fun icons and effects
