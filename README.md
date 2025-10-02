@@ -10,9 +10,9 @@
 ## Tech Used
 
 - **React** – Frontend  
-- **Tailwind CSS** – Styling  
-- **React Router** – Page navigation  
-- **Lucide Icons** – Fun icons and effects
+- **Tailwind CSS** - Styling  
+- **React Router** - Page navigation  
+- **Lucide Icons** - Fun icons and effects
 
 ## Future Plans
 
